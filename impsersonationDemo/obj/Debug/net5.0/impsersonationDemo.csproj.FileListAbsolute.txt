@@ -1,0 +1,16 @@
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\impsersonationDemo.exe
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\impsersonationDemo.deps.json
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\impsersonationDemo.runtimeconfig.json
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\impsersonationDemo.runtimeconfig.dev.json
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\impsersonationDemo.dll
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\ref\impsersonationDemo.dll
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\bin\Debug\net5.0\impsersonationDemo.pdb
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.csprojAssemblyReference.cache
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.AssemblyInfoInputs.cache
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.AssemblyInfo.cs
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.dll
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\ref\impsersonationDemo.dll
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.pdb
+C:\Users\Jonathan Baker\source\repos\impsersonationDemo\impsersonationDemo\obj\Debug\net5.0\impsersonationDemo.genruntimeconfig.cache
